@@ -1,4 +1,4 @@
-🗂️ <h1 style="color:yellow;">File Explorer Project</h1>
+<h1 style="color:yellow;">🗂️ File Explorer Project</h1>
 
 File Explorer in C++
 This project is a lightweight File Explorer application built in C++, designed to provide basic file management capabilities through a simple graphical interface or command-line interaction (depending on your implementation). It mimics core functionalities of traditional file explorers, allowing users to navigate directories, view file details, and perform operations like copy, move, delete, and rename.
@@ -27,5 +27,6 @@ To run the project:
 
 
   
+
 
 
